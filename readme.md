@@ -51,6 +51,8 @@ Stawiam na:
 
 ## Diagram zależności projektów
 
+Poniższy schemat przedstawia sposób współpracy komponentów w ramach ekosystemu SolveDesk oraz potencjał ich wspólnego wykorzystania.
+
 ![diagram](image.png)
 
 ### Main project: SolveDesk – system AI wspierający IT Support
