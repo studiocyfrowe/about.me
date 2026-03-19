@@ -200,7 +200,7 @@ Cel: Aplikacja do inteligentnego planowania list zakupowych na podstawie osobist
 
 Więcej informacji na moj temat znajdą Państwo na moim LinkedIn:
 
-- LinkedIn: [twój-link]
+- LinkedIn: [https://www.linkedin.com/in/hofmandesign/]
 
 ---
 
